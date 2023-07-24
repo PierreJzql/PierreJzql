@@ -21,14 +21,14 @@ My name is Pierre Jezequel and I'm an apprentice fullstack developer ! I'm study
 
 
 - 🌱 I’m currently learning:
-![React](	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![mySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 - 📫 How to reach me: 
-![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pierre-jezequel-91055a246/)
-![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pierrejezequel92@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pierre-jezequel-91055a246/)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pierrejezequel92@gmail.com)
 
 
 # Project
@@ -37,9 +37,13 @@ My name is Pierre Jezequel and I'm an apprentice fullstack developer ! I'm study
 
 ### Pico 8 
 Project in a group of 3 people.
+
 👨🏽‍💻 : Lua
+
 Discovery of the realization of an IT project through the creation of a retro video game.
+
 I made different features and graphics of the game.
+
 Discovery of the realization of a project in pair-programming.
 
 ### Dataviz & API

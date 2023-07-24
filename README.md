@@ -82,7 +82,6 @@ Project in a group of 10 people.
 Projet en cours de réalisation
 
 👨🏽‍💻 : Template Bootstrap, Javascript
-
 <br/>Creation of a digital version of a climbing Topo for the Asnières sur Seine club. A climbing topo allows each climber to know the difficulties of the routes available in a climbing gym or a cliff.
 <br/>I realize this project using a bootstrap template to allow me to focus first on the script and backend part.
 <br/>As my training progresses, I use new tools and apply my new knowledge.

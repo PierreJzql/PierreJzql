@@ -44,7 +44,7 @@ Project in a group of 3 people.
 <br/>Discovery of the realization of a project in pair-programming.
 
 ### Dataviz & API
-Project in a group of 4 people
+Project in a group of 4 people.
 
 👨🏽‍💻 : HTML, CSS, Javascript.
 <br/>Discovery of the use of APIs with the realization of the Just Cook site allowing to obtain cooking recipes according to the requested foods.
@@ -79,7 +79,7 @@ Project in a group of 10 people.
 ## Personal project
 
 ### Topo 
-Projet en cours de réalisation
+Project in progress.
 
 👨🏽‍💻 : Template Bootstrap, Javascript
 <br/>Creation of a digital version of a climbing Topo for the Asnières sur Seine club. A climbing topo allows each climber to know the difficulties of the routes available in a climbing gym or a cliff.
@@ -88,7 +88,7 @@ Projet en cours de réalisation
 <br/>Eventually I would do the front part to replace the template used. I would also set up a noSQL database for data management.
 
 ### Api Rest
-Technical Test for the Starup TicTacTrip
+Technical Test for the Starup TicTacTrip.
 
 👨🏽‍💻: Typescript, Node.JS
 <br/>Realization of a REST API in 7 days receiving a text and returning it justified every 80 characters. The user must provide their email address to authenticate and access the API, with a daily limit of 80,000 words.

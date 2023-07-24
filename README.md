@@ -39,7 +39,7 @@ My name is Pierre Jezequel and I'm an apprentice fullstack developer ! I'm study
 Project in a group of 3 people.
 
 👨🏽‍💻 : Lua
-Discovery of the realization of an IT project through the creation of a retro video game.
+<br/>Discovery of the realization of an IT project through the creation of a retro video game.
 I made different features and graphics of the game.
 Discovery of the realization of a project in pair-programming.
 

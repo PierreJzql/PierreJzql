@@ -39,13 +39,13 @@ My name is Pierre Jezequel and I'm an apprentice fullstack developer ! I'm study
 Project in a group of 3 people.
 
 👨🏽‍💻 : Lua
-
 Discovery of the realization of an IT project through the creation of a retro video game.
 I made different features and graphics of the game.
 Discovery of the realization of a project in pair-programming.
 
 ### Dataviz & API
 Project in a group of 4 people
+
 👨🏽‍💻 : HTML, CSS, Javascript.
 Discovery of the use of APIs with the realization of the Just Cook site allowing to obtain cooking recipes according to the requested foods.
 I made the different calls to the API (https://spoonacular.com/food-api) and the manipulation of the DOM with the generation of the different recipe sheets.
@@ -53,6 +53,7 @@ Discovery of the management of a fullstack project with the different MVP stages
 
 ### Chrome extension
 Paired project.
+
 👨🏽‍💻: HTML, CSS, Javascript and chrome manifest V3
 Discovery of the maniufest V3 and the creation and a chrome extension. Creation of a chrome extension of the key logger type for educational purposes in order to sensitize the promotion on the use of extensions.
 I made the CSS animation and the layout visible to the user. Partly invisible, realization of the key logger, screenshot and sends to a remote server.
@@ -60,6 +61,7 @@ DOM manipulation and discovery of script injection through the extension. Discov
 
 ### Social Network
 Project in a group of 3 people.
+
 👨🏽‍💻 : PHP, MySQL
 Realization of an social network like Instagram named Blurry-Pictures. Each user can add blurry photos and comments.
 I realized the back-end with the creation of the database and the manipulation of it using the CRUD.
@@ -67,6 +69,7 @@ Discovery of PHP and relational databases (mySQL).
 
 ### e-commerce website
 Project in a group of 10 people.
+
 👨🏽‍💻 : React, Tailwind, Node.JS, Express, MySQL
 Create a e-commerce from scratch in 2 weeks. 2 teams: Front and Back who will switch the second week.
 I realized in front of the header, the administrator page for the management of the articles in venbes.
@@ -77,15 +80,17 @@ I discovered the use of React and Tailwind. I also learned the importance of the
 
 ### Topo 
 Projet en cours de réalisation
+
 👨🏽‍💻 : Template Bootstrap, Javascript
+
 Creation of a digital version of a climbing Topo for the Asnières sur Seine club. A climbing topo allows each climber to know the difficulties of the routes available in a climbing gym or a cliff.
 I realize this project using a bootstrap template to allow me to focus first on the script and backend part.
 As my training progresses, I use new tools and apply my new knowledge.
 Eventually I would do the front part to replace the template used. I would also set up a noSQL database for data management.
 
-
 ### Api Rest
 Technical Test for the Starup TicTacTrip
+
 👨🏽‍💻: Typescript, Node.JS
 Realization of a REST API in 7 days receiving a text and returning it justified every 80 characters. The user must provide their email address to authenticate and access the API, with a daily limit of 80,000 words.
 Imposition of Node.JS, Typescript and no use of external library for justification.

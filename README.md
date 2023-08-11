@@ -76,6 +76,14 @@ Project in a group of 10 people.
 <br/>I realized in back the generation of the different furniture thumbnails available according to the database, the update and the deletion on the administrator page of the furniture of the database.
 <br/>I discovered the use of React and Tailwind. I also learned the importance of the passion between the two teams to make it easier for another person to take over their code.
 
+### Microblogging platform
+Project in a group of 4 people.
+
+👨🏽‍💻 : Docker, PHP, Laravel, tailwind, PostegreSQL
+<br/>Create a microblogging platform with Laravel framework.
+<br/>I realized in back the authentification page with Breeze package. Setting up the database connection for creating new posts by the user.
+<br/>I discovered the setup challenges (Windows vs macOS) and the importance of taking the time to properly configure one's working environment. The understanding of MVC operation and the use of an authentication package to avoid creating it from scratch. I also came across the Eloquent ORM for database communication. 
+
 ## Personal project
 
 ### Topo 
@@ -94,3 +102,13 @@ Technical Test for the Starup TicTacTrip.
 <br/>Realization of a REST API in 7 days receiving a text and returning it justified every 80 characters. The user must provide their email address to authenticate and access the API, with a daily limit of 80,000 words.
 <br/>Imposition of Node.JS, Typescript and no use of external library for justification.
 <br/>I discovered the use of Node.JS and Typescript. Since then I have been training on this stack which immediately interested me.
+
+
+### Chatbot Facebook messenger
+Technical Test for the Starup Yelda.
+
+👨🏽‍💻: Template bootstrap, Node.JS, Dialogflow
+<br/>Réalisation d'un chatbot de type Facebook messenger avec l'utilisation d'une IA conversationnelle. Realization of a chatbot Facebook messenger with Natural Language Understanding API.
+<br/>Imposition the bot should be able to understand basic intents ("Hello", "how are you",...) and thematics intents ("Weather" and "Climbing").
+<br/>I have discovered the usage of conversational AI and the utilization of Dialogflow. Also, I have learned how to create an app through Facebook Developer.
+

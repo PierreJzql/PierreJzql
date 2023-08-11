@@ -67,7 +67,7 @@ Project in a group of 3 people.
 <br/>I realized the back-end with the creation of the database and the manipulation of it using the CRUD.
 <br/>Discovery of PHP and relational databases (mySQL).
 
-### e-commerce website
+### E-commerce website
 Project in a group of 10 people.
 
 👨🏽‍💻 : React, Tailwind, Node.JS, Express, MySQL
